@@ -1,0 +1,658 @@
+[
+    {
+        "Artigo": "ART. 10",
+        "Crime": "HOMICÍDIO DOLOSO",
+        "Descrição": "Matar alguém com intenção",
+        "Pena": 60,
+        "Multa": 60000,
+        "Fiança": 0
+    },
+    {
+        "Artigo": "ART. 10.1",
+        "Crime": "HOMICÍDIO CULPOSO",
+        "Descrição": "Se o homicídio é culposo, SEM A INTENÇÃO.",
+        "Pena": 40,
+        "Multa": 40000,
+        "Fiança": 0
+    },
+    {
+        "Artigo": "ART. 10.2",
+        "Crime": "HOMICÍDIO A OFICIAL",
+        "Descrição": "Se a vítima é Oficial da Lei pelo simples fato de sê-lo ou no exercício de suas funções.",
+        "Pena": 60,
+        "Multa": 50000,
+        "Fiança": 0
+    },
+    {
+        "Artigo": "ART. 10.3",
+        "Crime": "LATROCÍNIO",
+        "Descrição": "Roubo seguido de morte",
+        "Pena": 50,
+        "Multa": 40000,
+        "Fiança": 0
+    },
+    {
+        "Artigo": "ART. 11",
+        "Crime": "TENTATIVA DE HOMICÍDIO ",
+        "Descrição": "Tentativa frustrada de matar alguém, por imperícia ou fatos supervenientes à conduta ilícita.",
+        "Pena": 40,
+        "Multa": 35000,
+        "Fiança": 0
+    },
+    {
+        "Artigo": "ART. 11.1",
+        "Crime": "TENTATIVA A OFICIAL",
+        "Descrição": "Se a vítima é Oficial da Lei pelo simples fato de sê-lo ou no exercício de suas funções",
+        "Pena": 50,
+        "Multa": 40000,
+        "Fiança": 0
+    },
+    {
+        "Artigo": "ART. 11.2",
+        "Crime": "MÚLTIPLOS HOMICÍDIOS",
+        "Descrição": "Matar várias pessoas em um único evento.",
+        "Pena": 60,
+        "Multa": 60000,
+        "Fiança": 0
+    },
+    {
+        "Artigo": "ART. 12",
+        "Crime": "SEQUESTRO E CÁRCERE PRIVADO",
+        "Descrição": "Privar alguém de sua liberdade, mediante sequestro ou cárcere privado.",
+        "Pena": 40,
+        "Multa": 30000,
+        "Fiança": 0
+    },
+    {
+        "Artigo": "ART. 12.1",
+        "Crime": "SEQUESTRO A OFICIAL",
+        "Descrição": "Se a vítima é Oficial da Lei pelo simples fato de sê-lo ou no exercício de suas funções",
+        "Pena": 60,
+        "Multa": 35000,
+        "Fiança": 0
+    },
+    {
+        "Artigo": "ART. 12.2",
+        "Crime": "EXTORSÃO MEDIANTE SEQUESTRO",
+        "Descrição": "Sequestrar pessoa com o fim de obter, para si ou para outrem, qualquer vantagem, como condição ou preço do resgate",
+        "Pena": 50,
+        "Multa": 40000,
+        "Fiança": 0
+    },
+    {
+        "Artigo": "ART. 14.1",
+        "Crime": "DIFAMAÇÃO",
+        "Descrição": "Difamar alguém, imputando-lhe fato ofensivo à sua reputação, atribuindo palavras ou qualidades ofensivas a alguém, expor defeitos ou opinião que desqualifique a pessoa, atingindo sua honra e moral.",
+        "Pena": 15,
+        "Multa": 6000,
+        "Fiança": 14000
+    },
+    {
+        "Artigo": "ART. 14.2",
+        "Crime": "CALÚNIA",
+        "Descrição": "Caluniar alguém, imputando-lhe falsamente fato definido como crime.",
+        "Pena": 15,
+        "Multa": 6000,
+        "Fiança": 14000
+    },
+    {
+        "Artigo": "ART. 14.3",
+        "Crime": "INJÚRIA",
+        "Descrição": "Injuriar alguém, ofendendo-lhe a dignidade, decoro, raça ou etnia.",
+        "Pena": 25,
+        "Multa": 14000,
+        "Fiança": 20000
+    },
+    {
+        "Artigo": "ART. 15",
+        "Crime": "AMEAÇA",
+        "Descrição": "Ameaçar alguém, por palavra, escrito ou gesto, ou qualquer outro meio simbólico, de causar-lhe mal injusto e grave.",
+        "Pena": 20,
+        "Multa": 8000,
+        "Fiança": 16000
+    },
+    {
+        "Artigo": "ART. 15.1",
+        "Crime": "AMEAÇA CONTRA OFICIAL ",
+        "Descrição": "Se a vítima é Oficial da Lei pelo simples fato de sê-lo ou no exercício de suas funções.",
+        "Pena": 30,
+        "Multa": 10000,
+        "Fiança": 20000
+    },
+    {
+        "Artigo": "ART. 15.2",
+        "Crime": "AMEAÇA COM VIOLÊNCIA ",
+        "Descrição": "Se a vítima sofreu algum tipo de violência física, psicológica ou danosa de alguma forma.",
+        "Pena": 30,
+        "Multa": 10000,
+        "Fiança": 20000
+    },
+    {
+        "Artigo": "ART. 17",
+        "Crime": "CRUELDADE ANIMAL",
+        "Descrição": "Praticar ato de abuso, maus-tratos, ferir ou mutilar animais domesticados, exóticos, em extinção ou não.",
+        "Pena": 20,
+        "Multa": 12000,
+        "Fiança": 24000
+    },
+    {
+        "Artigo": "ART. 18",
+        "Crime": "LESÃO CORPORAL",
+        "Descrição": "Causar dano físico a alguém.",
+        "Pena": 20,
+        "Multa": 6000,
+        "Fiança": 14000
+    },
+    {
+        "Artigo": "ART. 19",
+        "Crime": "OMISSÃO DE SOCORRO",
+        "Descrição": "Deixar de prestar assistência, quando possível fazê-lo sem risco pessoal, à pessoa inválida ou ferida.",
+        "Pena": 15,
+        "Multa": 7000,
+        "Fiança": 18000
+    },
+    {
+        "Artigo": "ART. 20",
+        "Crime": "DANOS MORAIS",
+        "Descrição": "Destruir, inutilizar, difamar a imagem alheia",
+        "Pena": 15,
+        "Multa": 5000,
+        "Fiança": 10000
+    },
+    {
+        "Artigo": "ART. 20.1",
+        "Crime": "ASSÉDIO MORAL",
+        "Descrição": "Ato de perseguir ou tentar inferir ameaça em fora de pereguição a uma pessoa.",
+        "Pena": 60,
+        "Multa": 50000,
+        "Fiança": 100000
+    },
+    {
+        "Artigo": "ART. 21",
+        "Crime": "ATO OBSCENO",
+        "Descrição": "Praticar ato obsceno em lugar público, ou aberto ou exposto ao público",
+        "Pena": 20,
+        "Multa": 6000,
+        "Fiança": 14000
+    },
+    {
+        "Artigo": "ART. 21.1",
+        "Crime": "ATENTADO AO PUDOR",
+        "Descrição": "Constranger alguém, mediante violência ou grave ameaça, a praticar ou permitir que com ele se pratique ato libidinoso diverso da conjunção carnal",
+        "Pena": 60,
+        "Multa": 120000,
+        "Fiança": 0
+    },
+    {
+        "Artigo": "ART. 22",
+        "Crime": "MARIA DA PENHA\r",
+        "Descrição": "Praticar qualquer ato de violencia contra a mulher, seja fisico, psicologico, sexual ou patrimonial.\r",
+        "Pena": 120,
+        "Multa": 60000,
+        "Fiança": 0
+    },
+    {
+        "Artigo": "ART. 23",
+        "Crime": "ROUBO",
+        "Descrição": "Subtrair coisa móvel alheia, para si ou para outrem, mediante grave ameaça ou violência à pessoa.",
+        "Pena": 30,
+        "Multa": 8000,
+        "Fiança": 20000
+    },
+    {
+        "Artigo": "ART. 23.1",
+        "Crime": "TENTATIVA DE ROUBO",
+        "Descrição": "Tentativa de Roubo, no caso da frustação do roubo.",
+        "Pena": 20,
+        "Multa": 6000,
+        "Fiança": 14000
+    },
+    {
+        "Artigo": "ART. 23.2",
+        "Crime": "FURTO",
+        "Descrição": "Subtrair, para si ou para outrem, coisa alheia móvel.",
+        "Pena": 10,
+        "Multa": 5000,
+        "Fiança": 12000
+    },
+    {
+        "Artigo": "ART. 24",
+        "Crime": "ASSALTO À LOJA\n",
+        "Descrição": "Tentar ou subtrair coisa alheia móvel em comércio com fim lucrativo",
+        "Pena": 60,
+        "Multa": 20000,
+        "Fiança": 32000
+    },
+    {
+        "Artigo": "ART. 25",
+        "Crime": "ASSALTO À BANCO",
+        "Descrição": "Tentar ou subtrair coisa alheia móvel em instituição bancária de pequeno porte.\n",
+        "Pena": 45,
+        "Multa": 20000,
+        "Fiança": 44000
+    },
+    {
+        "Artigo": "ART. 26",
+        "Crime": "ASSALTO À JOALHERIA ",
+        "Descrição": "Tentar ou subtrair itens de uma joalheria com fim lucrativo.",
+        "Pena": 50,
+        "Multa": 25000,
+        "Fiança": 48000
+    },
+    {
+        "Artigo": "ART. 27",
+        "Crime": "ASSALTO AO BANCO CENTRAL",
+        "Descrição": "Tentar ou subtrair coisa alheia móvel em instituição bancária de grande porte.\r\n",
+        "Pena": 100,
+        "Multa": 50000,
+        "Fiança": 120000
+    },
+    {
+        "Artigo": "ART. 28",
+        "Crime": "ROUBO A REGISTRADORA",
+        "Descrição": "Tentar ou subtrair coisa alheia móvel em regsitradoras.\r\n",
+        "Pena": 20,
+        "Multa": 6000,
+        "Fiança": 28000
+    },
+    {
+        "Artigo": "ART. 29",
+        "Crime": "ROUBO A CAIXA ELETRÔNICO",
+        "Descrição": "Tentar ou subtrair caixas eletrônicos com fim lucrativo. ",
+        "Pena": 30,
+        "Multa": 8000,
+        "Fiança": 32000
+    },
+    {
+        "Artigo": "ART. 30",
+        "Crime": "ASSALTO A LOJA DE ARMAS",
+        "Descrição": "Tentar ou subtrair coisa alheia móvel em lojas de vendas de armas e outrem.",
+        "Pena": 60,
+        "Multa": 15000,
+        "Fiança": 38000
+    },
+    {
+        "Artigo": "ART. 31",
+        "Crime": "LAVAGEM, OCULTAÇÃO DE BENS, DIREITOS E VALORES",
+        "Descrição": "Ocultar ou dissimular a natureza, origem, localização, disposição, movimentação ou propriedade de bens, direitos ou valores provenientes, direta ou indiretamente, de infração penal.",
+        "Pena": 60,
+        "Multa": 34000,
+        "Fiança": 76000
+    },
+    {
+        "Artigo": "ART. 32",
+        "Crime": "DANO AO PATRIMÔNIO",
+        "Descrição": "Destruir, inutilizar ou deteriorar patrimônio alheio.",
+        "Pena": 40,
+        "Multa": 15000,
+        "Fiança": 32000
+    },
+    {
+        "Artigo": "ART. 32.1",
+        "Crime": "INVASÃO À PROPRIEDADE",
+        "Descrição": "Invadir com ou sem violência à pessoa ou grave ameaça, ou mediante concurso de mais de duas pessoas, terreno ou edifício alheio.",
+        "Pena": 20,
+        "Multa": 8000,
+        "Fiança": 18000
+    },
+    {
+        "Artigo": "ART. 33",
+        "Crime": "RECEPTAÇÃO",
+        "Descrição": "Adquirir, receber, transportar, conduzir ou ocultar, em proveito próprio ou alheio, coisa que sabe ser produto de crime, ou influir para que terceiro, de boa-fé, a adquira, receba ou oculte",
+        "Pena": 30,
+        "Multa": 16000,
+        "Fiança": 32000
+    },
+    {
+        "Artigo": "ART. 34",
+        "Crime": "ESTELIONATO",
+        "Descrição": "Obter, para si ou para outrem, vantagem ilícita, em prejuízo alheio, induzindo ou mantendo alguém em erro, mediante artifício, ardil, ou qualquer outro meio fraudulento",
+        "Pena": 40,
+        "Multa": 12000,
+        "Fiança": 38000
+    },
+    {
+        "Artigo": "ART. 34.1",
+        "Crime": "EXTORSÃO",
+        "Descrição": "Coagir alguém com intuito de obter vantagem econômica.",
+        "Pena": 30,
+        "Multa": 16000,
+        "Fiança": 36000
+    },
+    {
+        "Artigo": "ART. 34.2",
+        "Crime": "EVASÃO FINANCEIRA",
+        "Descrição": "Deixar de pagar por bens ou serviços recebidos.",
+        "Pena": 30,
+        "Multa": 15000,
+        "Fiança": 34000
+    },
+    {
+        "Artigo": "ART. 36",
+        "Crime": "POSSE DE SUBSTÂNCIAS ILÍCITAS",
+        "Descrição": "Importar, exportar, remeter, preparar, produzir, fabricar, adquirir, vender, expor à venda, oferecer, ter em depósito, transportar, trazer consigo, guardar, prescrever, ministrar, entregar a consumo ou fornecer drogas, ainda que gratuitamente, sem autorização ou em desacordo com determinação legal ou regulamentar. Máximo de consumo 40g - 5 drogas",
+        "Pena": 30,
+        "Multa": 10000,
+        "Fiança": 40000
+    },
+    {
+        "Artigo": "ART. 36.1",
+        "Crime": "POSSE ILEGAL DE ARMAS (baixo calibre)",
+        "Descrição": " Portar, deter, adquirir, fornecer, receber, ter em depósito, transportar, ceder, ainda que gratuitamente, emprestar, remeter, empregar, manter sob guarda ou ocultar arma de fogo, acessório ou munição, de uso permitido, sem autorização e em desacordo com determinação legal ou regulamentar",
+        "Pena": 40,
+        "Multa": 20000,
+        "Fiança": 48000
+    },
+    {
+        "Artigo": "ART. 36.2",
+        "Crime": "POSSE DE ITENS DE UTILIZAÇÃO DOS SERVIDORES PUBLICOS/GOVERNAMENTAIS\n",
+        "Descrição": "Utilizar ou reter consigo itens que fazem parte do trabalho de autoridades oficiais e governamentais\n",
+        "Pena": 40,
+        "Multa": 24000,
+        "Fiança": 52000
+    },
+    {
+        "Artigo": "ART. 36.3",
+        "Crime": "POSSE DE DINHEIRO SUJO ABAIXO DE 100.000",
+        "Descrição": "Possuir abaixo de S99.999 de dinheiro obtido de forma ilícita.",
+        "Pena": 20,
+        "Multa": 40000,
+        "Fiança": 82000
+    },
+    {
+        "Artigo": "ART. 36.4",
+        "Crime": "POSSE DE DINHEIRO SUJO ACIMA DE 100.000",
+        "Descrição": "Possuir acima de S100.000 de dinheiro obtido de forma ilícita.",
+        "Pena": 40,
+        "Multa": 80000,
+        "Fiança": 180000
+    },
+    {
+        "Artigo": "ART. 37",
+        "Crime": "POSSE DE EXPLOSIVOS OU BOMBAS",
+        "Descrição": "Importar, exportar, remeter, preparar, produzir, fabricar, adquirir, vender, expor à venda, oferecer, ter em depósito, transportar, guardar, entregar ou fornecer, ainda que gratuitamente, sem autorização ou em desacordo com determinação legal ou regulamentar. Qualquer tipo de bomba ou explosivo.",
+        "Pena": 40,
+        "Multa": 15000,
+        "Fiança": 80000
+    },
+    {
+        "Artigo": "ART. 38",
+        "Crime": "TRÁFICO DE ARMAS E MUNIÇÕES",
+        "Descrição": "Distribuir, vender ou negociar armas e munições sem autorização.",
+        "Pena": 50,
+        "Multa": 70000,
+        "Fiança": 160000
+    },
+    {
+        "Artigo": "ART. 38.1",
+        "Crime": "POSSE DE EQUIPAMENTO BALÍSTICO",
+        "Descrição": "Utilizar equipamentos de proteção balística sem permissão.",
+        "Pena": 40,
+        "Multa": 26000,
+        "Fiança": 56000
+    },
+    {
+        "Artigo": "ART. 39",
+        "Crime": "TRÁFICO DE ARMAS CALIBRE MEDIA/ALTO",
+        "Descrição": "Distribuir, vender ou negociar, portar, deter, adquirir, fornecer, receber, ter em depósito, transportar armas de alto calibre sem autorização governamental.",
+        "Pena": 60,
+        "Multa": 90000,
+        "Fiança": 180000
+    },
+    {
+        "Artigo": "ART. 40",
+        "Crime": "DINHEIRO SUJO ABAIXO DE 40.000",
+        "Descrição": "Possuir abaixo de 40.000 de dinheiro obtido de forma ilícita.",
+        "Pena": 35,
+        "Multa": 15000,
+        "Fiança": 62000
+    },
+    {
+        "Artigo": "ART. 41",
+        "Crime": "CORRUPÇÃO PASSIVA",
+        "Descrição": "Solicitar ou receber, para si ou para outrem, direta ou indiretamente, ainda que fora da função ou antes de assumi-la, mas em razão dela, vantagem indevida ou promessa de tal vantagem.",
+        "Pena": 40,
+        "Multa": 30000,
+        "Fiança": 80000
+    },
+    {
+        "Artigo": "ART. 41.1",
+        "Crime": "CORRUPÇÃO DE AUTORIDADE",
+        "Descrição": "Se o Oficial da Lei, Autoridade Governamental, Agente Federal ou Agente Judiciário, após desligado ou aposentado do Órgão ao qual pertencia, adentrar à vida da ilegalidade em menos de 10 dias.",
+        "Pena": 50,
+        "Multa": 100000,
+        "Fiança": 220000
+    },
+    {
+        "Artigo": "ART. 42",
+        "Crime": "CORRUPÇÃO ATIVA",
+        "Descrição": "Oferecer ou prometer vantagem indevida a funcionário público, para determiná-lo a praticar, omitir atos administrativos.",
+        "Pena": 60,
+        "Multa": 60000,
+        "Fiança": 140000
+    },
+    {
+        "Artigo": "ART.42.1",
+        "Crime": "TENTATIVA DE SUBORNO",
+        "Descrição": "Tentar subornar oficial da lei ou justiça em exercício de suas funções.",
+        "Pena": 30,
+        "Multa": 30000,
+        "Fiança": 84000
+    },
+    {
+        "Artigo": "ART. 43",
+        "Crime": "OBSTRUÇÃO DE JUSTIÇA",
+        "Descrição": "Impedir ou, de qualquer forma, tentar embaraçar a investigação de qualquer infração penal ou cumprimento de ordem legal",
+        "Pena": 40,
+        "Multa": 60000,
+        "Fiança": 128000
+    },
+    {
+        "Artigo": "ART. 43.1",
+        "Crime": "OMISSÃO OU OBTRUÇÃO DE PROVAS",
+        "Descrição": "Omitir ou obtruir prova a fim de dificultar investigação.",
+        "Pena": 30,
+        "Multa": 30000,
+        "Fiança": 64000
+    },
+    {
+        "Artigo": "ART. 44",
+        "Crime": "PREVARICAÇÃO",
+        "Descrição": "Retardar ou deixar de praticar, indevidamente, ato de ofício, ou praticá-lo contra disposição expressa de lei, para satisfazer interesse ou sentimento pessoal",
+        "Pena": 60,
+        "Multa": 80000,
+        "Fiança": 160000
+    },
+    {
+        "Artigo": "ART. 44.1",
+        "Crime": "ABUSO DE AUTORIDADE",
+        "Descrição": "Se o Oficial da Lei, Autoridade Governamental, Agente Federal ou Agente Judiciário, cometer abuso, quer seja administrativo, moral ou físico no exercício ou não de suas fuções.",
+        "Pena": 20,
+        "Multa": 24000,
+        "Fiança": 56000
+    },
+    {
+        "Artigo": "ART. 45",
+        "Crime": "USURPAÇÃO DE FUNÇÃO PÚBLICA",
+        "Descrição": "Exercer ou praticar ato de uma função pública que não lhe é devida",
+        "Pena": 60,
+        "Multa": 60000,
+        "Fiança": 120000
+    },
+    {
+        "Artigo": "ART. 46",
+        "Crime": "ABOLIÇÃO VIOLENTA DO ESTADO DEMOCRÁTICO DE DIREITO",
+        "Descrição": "Tentar, com emprego de violência ou grave ameaça, abolir o Estado Democrático de Direito, impedindo ou restringindo o exercício dos poderes constitucionais.",
+        "Pena": 60,
+        "Multa": 50000,
+        "Fiança": 120000
+    },
+    {
+        "Artigo": "ART. 47",
+        "Crime": "ASSOCIAÇÃO CRIMINOSA",
+        "Descrição": "Associarem-se 3 (três) ou mais pessoas, para o fim específico de cometer crimes",
+        "Pena": 40,
+        "Multa": 18000,
+        "Fiança": 40000
+    },
+    {
+        "Artigo": "ART. 48",
+        "Crime": "FALSIDADE IDEOLÓGICA",
+        "Descrição": "Alterar informações pessoais com propósito de enganar.",
+        "Pena": 20,
+        "Multa": 6000,
+        "Fiança": 18000
+    },
+    {
+        "Artigo": "ART. 49",
+        "Crime": "IMPOSSIBILIDADE DE IDENTIFICAÇÃO",
+        "Descrição": "Não portar ou apresentar ao Oficial da Lei o documento de identificação quando solicitado",
+        "Pena": 10,
+        "Multa": 6000,
+        "Fiança": 12000
+    },
+    {
+        "Artigo": "ART. 50",
+        "Crime": "FALSO TESTEMUNHO (PERJÚRIO)",
+        "Descrição": "Fazer afirmação falsa, ou negar ou calar a verdade como testemunha, perito, contador, tradutor ou intérprete em processo judicial, administrativo ou inquérito policial",
+        "Pena": 40,
+        "Multa": 40000,
+        "Fiança": 86000
+    },
+    {
+        "Artigo": "ART. 51",
+        "Crime": "LEI DE PROPRIEDADE INDUSTRIAL",
+        "Descrição": "Prática abusiva de preços e/ou abandono. ",
+        "Pena": 60,
+        "Multa": 80000,
+        "Fiança": 150000
+    },
+    {
+        "Artigo": "ART. 51.2",
+        "Crime": "CRIME CONTRA RELAÇÕES DE CONSUMO",
+        "Descrição": "Empresas que seus produtos estão sem condições de vendas ou ainda vencido/impróprios para consumo ou utilização.",
+        "Pena": 30,
+        "Multa": 54000,
+        "Fiança": 120000
+    },
+    {
+        "Artigo": "ART. 52",
+        "Crime": "VENDA ILEGAL DE PRODUTOS RESTRITOS SEM LICENÇA\n",
+        "Descrição": "Vendas de produtos sem licença e falsificação de alvará de funcionamento.",
+        "Pena": 25,
+        "Multa": 40000,
+        "Fiança": 90000
+    },
+    {
+        "Artigo": "ART. 53",
+        "Crime": "FAVORECIMENTO PESSOAL",
+        "Descrição": "Ajudar criminoso a escapar  da ação da justiça após prática de crime ou na tentativa de assegurar a fuga, escondimento ou dissimulação do criminoso.",
+        "Pena": 40,
+        "Multa": 15000,
+        "Fiança": 90000
+    },
+    {
+        "Artigo": "ART. 54",
+        "Crime": "DESORDEM SOCIAL",
+        "Descrição": "Destruir, inutilizar ou deteriorar bem público ou privado, ou praticar qualquer outro crime ou ato violento, com o fim de alterar gravemente a paz pública, de atemorizar a coletividade ou determinado grupo de pessoas, de provocar descrença nas autoridades públicas legalmente constituídas ou constrangê-las a praticar, deixar de praticar ou tolerar que se pratique algum ato.",
+        "Pena": 15,
+        "Multa": 5000,
+        "Fiança": 12000
+    },
+    {
+        "Artigo": "ART. 54.1",
+        "Crime": "APOLOGIA AO CRIME",
+        "Descrição": "Promover e ou fazer-se público apologia a atos crimonosos.",
+        "Pena": 30,
+        "Multa": 50000,
+        "Fiança": 110000
+    },
+    {
+        "Artigo": "ART. 55",
+        "Crime": "DESACATO",
+        "Descrição": "Ofender funcionário público no exercício de sua função ou em razão dela, por palavra, escrita ou gesto, ou qualquer outro meio simbólico",
+        "Pena": 20,
+        "Multa": 12000,
+        "Fiança": 26000
+    },
+    {
+        "Artigo": "ART. 56",
+        "Crime": "DESOBEDIÊNCIA",
+        "Descrição": "Recusar-se a cumprir ordem de funcionário público.",
+        "Pena": 15,
+        "Multa": 10000,
+        "Fiança": 22000
+    },
+    {
+        "Artigo": "ART. 57",
+        "Crime": "RESISTÊNCIA À PRISÃO",
+        "Descrição": "Opor-se à execução de ato legal, mediante violência ou ameaça a funcionário competente para executá-lo.",
+        "Pena": 20,
+        "Multa": 5000,
+        "Fiança": 15000
+    },
+    {
+        "Artigo": "ART. 58",
+        "Crime": "FUGA DE PESSOA PRESA OU SUBMETIDA A MEDIDA DE SEGURANÇA",
+        "Descrição": "Promover, facilitar ou tentar a fuga de pessoa legalmente presa ou submetida a medida de segurança detentiva",
+        "Pena": 20,
+        "Multa": 16000,
+        "Fiança": 38000
+    },
+    {
+        "Artigo": "ART. 58.1",
+        "Crime": "FUGA DE ABORDAGEM POLICIAL",
+        "Descrição": "Fugir de abordagem ou revista policial.",
+        "Pena": 20,
+        "Multa": 8000,
+        "Fiança": 20000
+    },
+    {
+        "Artigo": "ART. 60",
+        "Crime": "MULTAS PENDENTES ACIMA DE 50.000",
+        "Descrição": "Manter dívida acumulada com o governo acima do valor limite sem justificativa.",
+        "Pena": 30,
+        "Multa": 0,
+        "Fiança": 100000
+    },
+    {
+        "Artigo": "ART. 61",
+        "Crime": "POLUIÇÃO SONORA",
+        "Descrição": "Emitir som ou ruído em volume superior ao permitido em áreas públicas ou residenciais.",
+        "Pena": 10,
+        "Multa": 6000,
+        "Fiança": 12000
+    },
+    {
+        "Artigo": "ART. 63",
+        "Crime": "EXCESSO DE FICHA CRIMINAL",
+        "Descrição": "Quando há mais de 10 fichas criminais / ocorrências penais",
+        "Pena": 60,
+        "Multa": 0,
+        "Fiança": 0
+    },
+    {
+        "Artigo": "ART. 67",
+        "Crime": "ATROPELAMENTO",
+        "Descrição": "Ferir pedestre devido a imprudência no trânsito.",
+        "Pena": 15,
+        "Multa": 5000,
+        "Fiança": 0
+    },
+    {
+        "Artigo": "ART. 68.1",
+        "Crime": "CORRIDA ILEGAL",
+        "Descrição": "Praticar corrida ilegal.",
+        "Pena": 25,
+        "Multa": 12000,
+        "Fiança": 34000
+    },
+    {
+        "Artigo": "ART. 72",
+        "Crime": "UTILIZAÇÃO DE VEÍCULO DE TERCEIROS PARA CRIMES",
+        "Descrição": "Utilizar veículos de empregos ou prestação de serviço (missões de civis) para cometer atos ilícitos.",
+        "Pena": 30,
+        "Multa": 30000,
+        "Fiança": 68000
+    }
+]

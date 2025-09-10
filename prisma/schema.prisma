@@ -11,5 +11,25 @@ generator client {
 
 datasource db {
   provider = "postgresql"
-  url      = env("DATABASE_URL")
+  url      = env("DIRECT_URL")
+}
+
+model Officer {
+  id          Int       @id @default(autoincrement())
+  name        String
+  badgeNumber String   @unique
+
+  @@map("officer")
+}
+
+model Crime {
+  id          Int       @id @default(autoincrement())
+  article     String    @unique
+  title       String
+  description String
+  time        Int
+  fine        Float
+  financable  Boolean   @default(false)
+
+  @@map("crime")
 }

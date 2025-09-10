@@ -1,0 +1,90 @@
+[
+    {
+        "Artigo": "ART. 51.1",
+        "Crime": "EMPRESA IRREGULAR",
+        "Descrição": "Empresa sem alvará ou com alvará vencido.",
+        "Pena": 0,
+        "Multa": 50000,
+        "Fiança": 100000
+    },
+    {
+        "Artigo": "ART. 59",
+        "Crime": "OCULTAÇÃO FACIAL",
+        "Descrição": "Utilizar objetos para esconder o rosto com intuito de dificultar identificação.",
+        "Pena": 0,
+        "Multa": 20000,
+        "Fiança": 18000
+    },
+    {
+        "Artigo": "ART. 62",
+        "Crime": "NÃO RESPEITAR PERÍMETRO DA AÇÃO",
+        "Descrição": "Civil que desobedecer a ordem de oficial da lei e/ou perímetro de uma ação em andamento",
+        "Pena": 0,
+        "Multa": 30000,
+        "Fiança": 0
+    },
+    {
+        "Artigo": "ART. 66",
+        "Crime": "EXCESSO DE VELOCIDADE",
+        "Descrição": "Transitar em velocidade superior à máxima permitida dentro dos limites urbanos, independente do meio de locomoção",
+        "Pena": 0,
+        "Multa": 8000,
+        "Fiança": 0
+    },
+    {
+        "Artigo": "ART. 68",
+        "Crime": "DIREÇÃO PERIGOSA",
+        "Descrição": "Dirigir de forma que coloque em risco a segurança pública. Incluindo mas não se limitando a objetos que limitem a visualização clara do condutor (viseiras escuras demais, objetos e transporte de pessoas de modo irregular em veículos).",
+        "Pena": 0,
+        "Multa": 8000,
+        "Fiança": 0
+    },
+    {
+        "Artigo": "ART. 69",
+        "Crime": "VEÍCULO EM LOCAL PROIBIDO",
+        "Descrição": "Estacionar em locais não permitidos.",
+        "Pena": 0,
+        "Multa": 4000,
+        "Fiança": 0
+    },
+    {
+        "Artigo": "ART. 70",
+        "Crime": "VEÍCULO ABANDONADO",
+        "Descrição": "Deixar veículo abandonado em via pública.",
+        "Pena": 0,
+        "Multa": 5000,
+        "Fiança": 0
+    },
+    {
+        "Artigo": "ART. 71",
+        "Crime": "VEÍCULO DANIFICADO",
+        "Descrição": "Conduzir veículo sem condições de segurança.",
+        "Pena": 0,
+        "Multa": 3000,
+        "Fiança": 0
+    },
+    {
+        "Artigo": "ART. 73",
+        "Crime": "TRÁFEGO AÉREO",
+        "Descrição": "Transitar no espaço aéreo sem possuir a carteira de habilitação aérea. ",
+        "Pena": 0,
+        "Multa": 30000,
+        "Fiança": 0
+    },
+    {
+        "Artigo": "ART. 73.1",
+        "Crime": "POUSO EM LOCAL INDEVIDO",
+        "Descrição": "Pousar em vias urbanas, predios publicos sem a permissão, entre outros locais publicos fora do  local designado. Artigo não se aplica para medicos e policias em situaçoes de emergencias ou ação rapida para contenção e resgates.\n",
+        "Pena": 0,
+        "Multa": 40000,
+        "Fiança": 0
+    },
+    {
+        "Artigo": "ART. 73.2",
+        "Crime": "PILOTAGEM PERIGOSA",
+        "Descrição": "Quando ao pilotar está praticando atitudes perigosas as pessoas.",
+        "Pena": 0,
+        "Multa": 50000,
+        "Fiança": 0
+    }
+]
