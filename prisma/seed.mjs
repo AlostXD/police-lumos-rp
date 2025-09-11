@@ -22,7 +22,7 @@ function normalizeCrime(raw) {
 
   const timeNum = Number(raw.Pena ?? raw.time ?? 0);
   const fineNum = Number(raw.Multa ?? raw.fine ?? 0);
-  const bailNum = Number(raw["Fiança"] ?? 0);
+  const fianceNum = Number(raw["Fiança"] ?? raw.fiance ?? 0);
 
   return {
     article,
@@ -30,7 +30,8 @@ function normalizeCrime(raw) {
     description,
     time: Number.isFinite(timeNum) ? Math.trunc(timeNum) : 0,
     fine: Number.isFinite(fineNum) ? fineNum : 0,
-    financable: Number.isFinite(bailNum) ? bailNum > 0 : false,
+    fiance: Number.isFinite(fianceNum) ? fianceNum : 0,
+    financable: fianceNum > 0, // Define financable com base no valor de fiance
   };
 }
 
@@ -42,7 +43,8 @@ function mergeCrime(a, b) {
     description: (a.description?.length || 0) >= (b.description?.length || 0) ? a.description : b.description,
     time: Math.max(a.time ?? 0, b.time ?? 0),
     fine: Math.max(a.fine ?? 0, b.fine ?? 0),
-    financable: Boolean(a.financable || b.financable),
+    fiance: Math.max(a.fiance ?? 0, b.fiance ?? 0),
+    financable: Boolean(a.fiance > 0 || b.fiance > 0),
   };
 }
 
@@ -72,6 +74,7 @@ async function main() {
         description: c.description,
         time: c.time,
         fine: c.fine,
+        fiance: c.fiance,
         financable: c.financable,
       },
       create: {
@@ -80,6 +83,7 @@ async function main() {
         description: c.description,
         time: c.time,
         fine: c.fine,
+        fiance: c.fiance,
         financable: c.financable,
       },
     });

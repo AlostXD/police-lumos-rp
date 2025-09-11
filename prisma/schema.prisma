@@ -29,6 +29,7 @@ model Crime {
   description String
   time        Int
   fine        Float
+  fiance      Float
   financable  Boolean   @default(false)
 
   @@map("crime")
